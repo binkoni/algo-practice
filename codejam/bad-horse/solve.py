@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # https://code.google.com/codejam/contest/2933486/dashboard
+# bipartite graph
 def bfs(graph, visited, queue, xset, yset):
   while queue:
     e = queue.pop(0)

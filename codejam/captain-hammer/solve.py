@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # https://code.google.com/codejam/contest/2845486/dashboard
+# projectile motion
 import math
 
 G = -9.8
